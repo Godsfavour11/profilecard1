@@ -139,14 +139,12 @@ h3 {
     margin: 20px auto;
     padding: 25px;
     background-image: url(../profilecard1/second\ background.jpg);
-    background-attachment: fixed;
   }
   .card.container2 {
     max-width: 50%;
     margin: 350px auto 20px auto;
     padding: 15px;
     background-image: url(../profilecard1/first\ background.jpg);
-    background-attachment: fixed;
   }
   #img1 {
     width: 110px;
@@ -172,7 +170,6 @@ h3 {
     margin: 15px auto;
     padding: 20px; 
     background-image: url(../profilecard1/second\ background.jpg);
-    background-attachment: fixed;
 
   }
   .card.container2 {
@@ -180,7 +177,6 @@ h3 {
     margin: 320px auto 20px auto;
     padding: 15px;
     background-image: url(../profilecard1/first\ background.jpg);
-    background-attachment: fixed;
   }
   #img1 {
     width: 90px;
@@ -206,14 +202,12 @@ h3 {
     margin: 10px auto;
     padding: 15px;
      background-image: url(../profilecard1/second\ background.jpg);
-    background-attachment: fixed;
   }
   .card.container2 {
     max-width: 70%;
     margin: 300px auto 20px auto;
     padding: 10px;
     background-image: url(../profilecard1/first\ background.jpg);
-    background-attachment: fixed;
   }
   #img1 {
     width: 80px;
@@ -240,14 +234,12 @@ h3 {
     margin: 5px auto;
     padding: 10px;
      background-image: url(../profilecard1/second\ background.jpg);
-    background-attachment: fixed;
   }
     .card.container2 {
         max-width: 90%;
         margin: 250px auto 20px auto;
         padding: 5px;
         background-image: url(../profilecard1/first\ background.jpg);
-    background-attachment: fixed;
     }
   #img1 {
     width: 60px;
