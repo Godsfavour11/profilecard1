@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Story+Script:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.libertinus-keyboard-bold {
+  font-family: "Libertinus Keyboard", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-two-bold {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lobster-two-regular-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lobster-two-bold-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+body {
+  font-family: 'story-script', 'Lobster Two', sans-serif;
+  background: linear-gradient(to right, #d379a6 25%, #ca4ef0 80%, #fcb69f 100%);
+  padding: 0%;
+  margin: 0%;
+  color: rgb(21, 1, 27);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#img1 {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: circle;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h1 {
+  text-align: center;
+   font-family: 'Libertinus Keyboard', sans-serif;;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #2c0230;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+#role {
+  text-align: center;
+  font-family: 'Lobster Two', sans-serif;
+  color: #5a0653;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.0;
+  margin: 10px 10px 10px 10px;
+}
+#line {
+  border-top: 1px solid #0f050efa;
+  width: 100%;
+  margin: 10px auto;
+}
+#bio {
+  text-align: center;
+  font-family: 'story script', sans-serif;
+  color: #5a0653;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.0;
+  margin: 0px 10px 30px 10px;
+}
+.card.container1 {
+  background-image: url(../profilecard1/ad6d1bd01156597ad9c1c7f0af038d87.jpg);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 20px auto;
+  padding-top: 40px;
+  padding: 20px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.card.container2 {
+  background-image: url(../profilecard1/ac43d229eeeaec9a17d27226c89ab409.jpg);
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin-top: 380px;
+  margin-bottom: 40px;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  position: absolute;
+  display: inline-block;
+  flex-direction: column;
+  align-items: baseline;
+  height: auto;
+  justify-content: flex-end;
+}
+h3 {
+  text-align: center;
+    font-family: 'story script', sans-serif;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #5a0653;
+}
+.author {
+  margin-top: 5px;
+  font-style: italic;
+  font-size: 12px;
+}
