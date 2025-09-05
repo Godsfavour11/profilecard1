@@ -88,7 +88,7 @@ h1 {
   margin: 0px 10px 30px 10px;
 }
 .card.container1 {
-  background-image: url(../profilecard1/second\ background.jpg);
+  background-image: url("../profilecard1/second background.jpg");
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 500px;
@@ -104,7 +104,7 @@ h1 {
   box-sizing: border-box;
 }
 .card.container2 {
-  background-image: url(../profilecard1/first\ background.jpg);
+  background-image: url("../profilecard1/first background.jpg");
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 300px;
@@ -138,13 +138,13 @@ h3 {
     max-width: 80%;
     margin: 20px auto;
     padding: 25px;
-    background-image: url(../profilecard1/second\ background.jpg);
+    background-image: url("../profilecard1/second background.jpg");
   }
   .card.container2 {
     max-width: 50%;
     margin: 350px auto 20px auto;
     padding: 15px;
-    background-image: url(../profilecard1/first\ background.jpg);
+    background-image: url("../profilecard1/first background.jpg");
   }
   #img1 {
     width: 110px;
@@ -169,14 +169,14 @@ h3 {
     max-width: 70%;
     margin: 15px auto;
     padding: 20px; 
-    background-image: url(../profilecard1/second\ background.jpg);
+    background-image: url("../profilecard1/second background.jpg");
 
   }
   .card.container2 {
     max-width: 60%;
     margin: 320px auto 20px auto;
     padding: 15px;
-    background-image: url(../profilecard1/first\ background.jpg);
+    background-image: url("../profilecard1/first background.jpg");
   }
   #img1 {
     width: 90px;
@@ -201,13 +201,13 @@ h3 {
     max-width: 90%;
     margin: 10px auto;
     padding: 15px;
-     background-image: url(../profilecard1/second\ background.jpg);
+     background-image: url("../profilecard1/second background.jpg");
   }
   .card.container2 {
     max-width: 70%;
     margin: 300px auto 20px auto;
     padding: 10px;
-    background-image: url(../profilecard1/first\ background.jpg);
+    background-image: url("../profilecard1/first background.jpg");
   }
   #img1 {
     width: 80px;
@@ -233,13 +233,13 @@ h3 {
     max-width: 100%;
     margin: 5px auto;
     padding: 10px;
-     background-image: url(../profilecard1/second\ background.jpg);
+     background-image: url("../profilecard1/second background.jpg");
   }
     .card.container2 {
         max-width: 90%;
         margin: 250px auto 20px auto;
         padding: 5px;
-        background-image: url(../profilecard1/first\ background.jpg);
+        background-image: url("../profilecard1/first background.jpg");
     }
   #img1 {
     width: 60px;
