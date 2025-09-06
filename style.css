@@ -104,7 +104,7 @@ h1 {
   box-sizing: border-box;
 }
 .card.container2 {
-  background-image: url("http://127.0.0.1:5500/profilecard1/first-background.jpg");
+  background-image: url("first-background.jpg");
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 300px;
