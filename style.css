@@ -88,7 +88,7 @@ h1 {
   margin: 0px 10px 30px 10px;
 }
 .card.container1 {
-  background-image: url("../profilecard1/second-background.jpg");
+  background-image: url('second-background.jpg');
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 500px;
@@ -104,7 +104,7 @@ h1 {
   box-sizing: border-box;
 }
 .card.container2 {
-  background-image: url("../profilecard1/first-background.jpg");
+  background-image: url('first-background.jpg');
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 300px;
